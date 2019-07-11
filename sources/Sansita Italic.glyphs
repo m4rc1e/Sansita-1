@@ -1,9 +1,5 @@
 {
-.appVersion = "1216";
-DisplayStrings = (
-"/Dzcaron/Dzcaron/Dzcaron",
-A
-);
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -83,7 +79,7 @@ zdotaccent.002";
 name = Salt_2;
 }
 );
-copyright = "Copyright (c) 2019, The Sansita Project Authors (https://github.com/Omnibus-Type/Sansita)";
+copyright = "Copyright 2019 The Sansita Project Authors (https://github.com/Omnibus-Type/Sansita)";
 customParameters = (
 {
 name = trademark;
@@ -97,10 +93,6 @@ value = OMNI;
 name = fsType;
 value = (
 );
-},
-{
-name = description;
-value = "Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)";
 },
 {
 name = license;
@@ -121,34 +113,11 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = panose;
-value = (
-3,
-6,
-5,
-2,
-3,
-6,
-5,
-6,
-5,
-6
-);
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{660, 20}",
-"{510, 20}",
-"{20, -20}"
-);
 }
 );
-date = "2018-11-01 01:37:38 +0000";
+date = "2018-11-01 01:37:41 +0000";
 designer = "Pablo Cosgaya";
-designerURL = "www.omnibus-type.com";
+designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;
 familyName = Sansita;
 featurePrefixes = (
@@ -814,11 +783,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 924;
+value = 1125;
 },
 {
 name = winDescent;
-value = 258;
+value = 284;
 },
 {
 name = hheaAscender;
@@ -827,10 +796,6 @@ value = 1020;
 {
 name = hheaDescender;
 value = -180;
-},
-{
-name = underlineThickness;
-value = 45;
 },
 {
 name = underlinePosition;
@@ -863,6 +828,10 @@ capHeight = 660;
 custom = Italic;
 customParameters = (
 {
+name = underlinePosition;
+value = -190;
+},
+{
 name = typoAscender;
 value = 1020;
 },
@@ -876,11 +845,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 928;
+value = 1125;
 },
 {
 name = winDescent;
-value = 258;
+value = 284;
 },
 {
 name = hheaAscender;
@@ -889,14 +858,6 @@ value = 1020;
 {
 name = hheaDescender;
 value = -180;
-},
-{
-name = underlineThickness;
-value = 65;
-},
-{
-name = underlinePosition;
-value = -190;
 }
 );
 descender = -180;
@@ -925,6 +886,10 @@ capHeight = 660;
 custom = Italic;
 customParameters = (
 {
+name = underlinePosition;
+value = -190;
+},
+{
 name = typoAscender;
 value = 1020;
 },
@@ -938,11 +903,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 936;
+value = 1125;
 },
 {
 name = winDescent;
-value = 258;
+value = 284;
 },
 {
 name = hheaAscender;
@@ -951,14 +916,6 @@ value = 1020;
 {
 name = hheaDescender;
 value = -180;
-},
-{
-name = underlineThickness;
-value = 75;
-},
-{
-name = underlinePosition;
-value = -190;
 }
 );
 descender = -180;
@@ -987,6 +944,10 @@ capHeight = 660;
 custom = "Extra Italic";
 customParameters = (
 {
+name = underlinePosition;
+value = -190;
+},
+{
 name = typoAscender;
 value = 1020;
 },
@@ -1000,11 +961,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 944;
+value = 1125;
 },
 {
 name = winDescent;
-value = 258;
+value = 284;
 },
 {
 name = hheaAscender;
@@ -1013,14 +974,6 @@ value = 1020;
 {
 name = hheaDescender;
 value = -180;
-},
-{
-name = underlineThickness;
-value = 85;
-},
-{
-name = underlinePosition;
-value = -190;
 }
 );
 descender = -180;
@@ -1050,6 +1003,10 @@ capHeight = 660;
 custom = "Black Italic";
 customParameters = (
 {
+name = underlinePosition;
+value = -190;
+},
+{
 name = typoAscender;
 value = 1020;
 },
@@ -1063,11 +1020,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 952;
+value = 1125;
 },
 {
 name = winDescent;
-value = 269;
+value = 284;
 },
 {
 name = hheaAscender;
@@ -1076,14 +1033,6 @@ value = 1020;
 {
 name = hheaDescender;
 value = -180;
-},
-{
-name = underlineThickness;
-value = 100;
-},
-{
-name = underlinePosition;
-value = -190;
 }
 );
 descender = -180;
@@ -85477,23 +85426,23 @@ glyphname = CR;
 layers = (
 {
 layerId = "B7BBAE14-F4F3-4898-8D83-DD158C3247C2";
-width = 600;
+width = 162;
 },
 {
 layerId = "7A350A25-044B-4D59-B0E9-6A59A980AC73";
-width = 600;
+width = 169;
 },
 {
 layerId = "1597CCFE-0C49-4087-BB13-985DDBBCAFFD";
-width = 600;
+width = 175;
 },
 {
 layerId = "30A38917-B9D2-447A-AF98-EAADDBDD04CD";
-width = 600;
+width = 181;
 },
 {
 layerId = "1252CFB8-7EB2-4C2F-9C11-14383990C0AA";
-width = 600;
+width = 159;
 }
 );
 unicode = 000D;
@@ -130058,25 +130007,26 @@ glyphname = NULL;
 layers = (
 {
 layerId = "1252CFB8-7EB2-4C2F-9C11-14383990C0AA";
-width = 600;
+width = 0;
 },
 {
 layerId = "B7BBAE14-F4F3-4898-8D83-DD158C3247C2";
-width = 600;
+width = 0;
 },
 {
 layerId = "7A350A25-044B-4D59-B0E9-6A59A980AC73";
-width = 600;
+width = 0;
 },
 {
 layerId = "1597CCFE-0C49-4087-BB13-985DDBBCAFFD";
-width = 600;
+width = 0;
 },
 {
 layerId = "30A38917-B9D2-447A-AF98-EAADDBDD04CD";
-width = 600;
+width = 0;
 }
 );
+unicode = 0000;
 }
 );
 instances = (
@@ -130086,6 +130036,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "1252CFB8-7EB2-4C2F-9C11-14383990C0AA" = 1;
 };
+isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
@@ -130104,6 +130056,8 @@ instanceInterpolations = {
 "7A350A25-044B-4D59-B0E9-6A59A980AC73" = 0.48837;
 "B7BBAE14-F4F3-4898-8D83-DD158C3247C2" = 0.51163;
 };
+isItalic = 1;
+linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
 },
@@ -130124,6 +130078,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "1597CCFE-0C49-4087-BB13-985DDBBCAFFD" = 1;
 };
+isItalic = 1;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
@@ -130133,6 +130089,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "30A38917-B9D2-447A-AF98-EAADDBDD04CD" = 1;
 };
+isItalic = 1;
+linkStyle = Black;
 name = "Black Italic";
 weightClass = Black;
 }
@@ -130467,8 +130425,8 @@ kerning = {
 };
 };
 manufacturer = "Omnibus-Type";
-manufacturerURL = "www.omnibus-type.com";
+manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
